@@ -1,0 +1,51 @@
+name: sec_dent_ai
+description: "A new Flutter project for Dental AI Management."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.0
+  easy_date_timeline: ^1.1.2
+  url_launcher: ^6.3.2
+  http: ^1.6.0
+  get: ^4.7.3
+  fl_chart: ^1.2.0
+  flutter_svg: ^2.3.0
+  image_picker: ^1.2.2
+  flutter_launcher_icons: ^0.14.4
+  font_awesome_flutter: ^11.0.0
+  flutter_local_notifications: ^22.0.1
+
+  intl: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  # 🚀 تم ترتيب وتسجيل الملفات الستة الظاهرة في صورتك بدقة متناهية هنا
+  assets:
+    - assets/decay.png
+    - assets/dentist_logo.png
+    - assets/root&fill.png
+    - assets/root.png
+    - assets/tooth.png
+    - assets/2 4.png
+    - assets/4 4.png
+    - assets/6 4.png
+    - assets/30 4.png
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/dentist_logo.png"
+  min_sdk_android: 21 # حدد الـ min_sdk الخاص بمشروعك
+
+
