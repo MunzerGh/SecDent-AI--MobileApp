@@ -4,15 +4,16 @@ Flutter mobile app for **SecDent AI**, a dental clinic management system. Doctor
 
 > Backend repository: [SecDentAI-Backend](https://github.com/MunzerGh/SecDentAI-Backend)
 
-<!--
-TODO before publishing: add 4-6 screenshots (or a short GIF) under docs/screenshots/
-and show them here, for example:
-<p align="center">
-  <img src="docs/screenshots/dashboard.png" width="200" />
-  <img src="docs/screenshots/calendar.png" width="200" />
-  <img src="docs/screenshots/dental_chart.png" width="200" />
-</p>
--->
+## Screenshots
+
+<table>
+<tr><td align="center"><img src="docs/screenshots/02_dashboard.jpg" width="190" alt="Dashboard"/></td><td align="center"><img src="docs/screenshots/07_calendar.jpg" width="190" alt="Appointment calendar"/></td><td align="center"><img src="docs/screenshots/09_dental_chart.jpg" width="190" alt="Dental chart"/></td><td align="center"><img src="docs/screenshots/03_emergency.jpg" width="190" alt="Emergency requests"/></td></tr>
+<tr><td align="center"><sub>Dashboard</sub></td><td align="center"><sub>Appointment calendar</sub></td><td align="center"><sub>Dental chart</sub></td><td align="center"><sub>Emergency requests</sub></td></tr>
+<tr><td align="center"><img src="docs/screenshots/10_book_appointment.jpg" width="190" alt="Book appointment"/></td><td align="center"><img src="docs/screenshots/11_lab_request.jpg" width="190" alt="Lab request"/></td><td align="center"><img src="docs/screenshots/04_bot_inbox.jpg" width="190" alt="Bot and complaints inbox"/></td><td align="center"><img src="docs/screenshots/08_patients.jpg" width="190" alt="Patient archive"/></td></tr>
+<tr><td align="center"><sub>Book appointment</sub></td><td align="center"><sub>Lab request</sub></td><td align="center"><sub>Bot and complaints inbox</sub></td><td align="center"><sub>Patient archive</sub></td></tr>
+<tr><td align="center"><img src="docs/screenshots/05_add_patient.jpg" width="190" alt="Add patient"/></td><td align="center"><img src="docs/screenshots/06_search.jpg" width="190" alt="Patient search"/></td><td align="center"><img src="docs/screenshots/12_settings.jpg" width="190" alt="Settings and language"/></td><td align="center"><img src="docs/screenshots/01_splash.jpg" width="190" alt="Splash screen"/></td></tr>
+<tr><td align="center"><sub>Add patient</sub></td><td align="center"><sub>Patient search</sub></td><td align="center"><sub>Settings and language</sub></td><td align="center"><sub>Splash screen</sub></td></tr>
+</table>
 
 ## Features
 
